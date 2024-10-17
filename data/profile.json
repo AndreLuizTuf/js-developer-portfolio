@@ -1,7 +1,7 @@
 {
   "name": "André Luiz Albuquerque França(PCD)",
   "photo": "https://avatars.githubusercontent.com/u/100101561?s=400&u=6f35b26615a1dd512438392b50b3a64a721ab05a&v=4",
-  "job": "Jr FullStack Developer",
+  "job": "FullStack Developer",
   "location": "Fortaleza - CE",
   "phone": "(85) 98549-7402",
   "email": "andre.luiz.a.f@hotmail.com",
@@ -46,31 +46,31 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Ruby on Rails 2024 - Airbnb clone - HTML CSS Javascript, Tailwind, Ruby, Rails, PostgreSQL feito por mim",
+      "url": "https://github.com/AndreLuizTuf/Projeto_airbnb",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criei uma pagina mais avançado mutiverso",
+      "url": "https://github.com/AndreLuizTuf/spider-man-multiverses",
+      "github": true
+    },
+    {
+      "name": "Trabalhei como voluntário na avanade com grupo de surdos",
+      "url": "https://glossary-em-termos.vercel.app/",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Analista de Testes Junior / Avanade",
+      "period": "jun de 2022 - mai de 2024 · 2 anos",
+      "description": "Atuação em conjunto com a equipe de Testes, desde a concepção do plano de testes até a execução de Testes Exploratórios."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Assistente técnico de testes",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "description": "Atuação em projetos com foco em testes de software em diferentes plataformas, bem como a participação em diferentes iniciativas para auxiliar na inclusão de PCD’s."
     }
   ]
 }

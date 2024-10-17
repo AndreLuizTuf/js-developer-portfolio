@@ -1,5 +1,5 @@
 {
-  "name": "André Luiz Albuquerque França(PCD)",
+  "name": "o André Luiz Albuquerque França(PCD)",
   "photo": "https://avatars.githubusercontent.com/u/100101561?s=400&u=6f35b26615a1dd512438392b50b3a64a721ab05a&v=4",
   "job": "FullStack Developer",
   "location": "Fortaleza - CE",
@@ -12,11 +12,11 @@
         "logo": "https://raw.githubusercontent.com/AndreLuizTuf/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/AndreLuizTuf/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Angular",
+        "name": "Ruby",
         "logo": "https://raw.githubusercontent.com/AndreLuizTuf/js-developer-portfolio/main/data/imgs/ruby.png"
       },
       {
@@ -51,7 +51,7 @@
       "github": true
     },
     {
-      "name": "Criei uma pagina mais avançado mutiverso",
+      "name": "Criei uma pagina mais avançado multiverso",
       "url": "https://github.com/AndreLuizTuf/spider-man-multiverses",
       "github": true
     },
